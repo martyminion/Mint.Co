@@ -1,0 +1,28 @@
+.bmwBody {
+    font-family:  'Montez', cursive;
+    text-align: center;
+}
+.bmwBody p{
+    font-family: 'Montez', cursive;
+}
+.bmwBody h1 {
+    font-size: 150px;
+    font-family:'Montez', cursive;
+    text-align: center;
+}
+.bmwBody h2 {
+    font-family: 'Montez', cursive;
+    font-size: 50px;
+}
+.bmwBody h3 {
+    font-family: 'Montez', cursive;
+    font-size: 30px;  
+}
+.bmwBodyJumb {
+    background-color: white;
+    text-align: center;
+
+}
+.bmwBody p {
+    font-family:  'Montez', cursive;
+}
